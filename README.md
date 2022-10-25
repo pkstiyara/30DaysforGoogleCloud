@@ -10,4 +10,5 @@ This Challenge will take for 30 days just 1 hour daily and keep it doing for nex
 This will not cover all things "Google Cloud" but it will cover the areas that I feel will benefit my learning and understanding overall to the GCP and make your more confident while using the GCP through UI or CLI.
 
 
-The most easiet way to get in touch via Twitter myhandle is @pkstiyara
+The most easiet way to get in touch via Twitter myhandle is [pkstiyar](https://twitter.com/pkstiyara)
+Connect me on [LinkedIN](https://www.linkedin.com/in/pkstiyara/)
