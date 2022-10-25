@@ -13,3 +13,9 @@ This will not cover all things "Google Cloud" but it will cover the areas that I
 The most easiet way to get in touch via Twitter myhandle is [pkstiyara](https://twitter.com/pkstiyara)
 
 Connect me on [LinkedIN](https://www.linkedin.com/in/pkstiyara/)
+
+
+## Progress
+
+
+:green_circle: >1 Introduction
