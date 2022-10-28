@@ -1,15 +1,64 @@
 ---
-title: '#30DaysforGoogleCloud - Introduction - Day 1'
+title: '#30DaysforGoogleCloud - Cloud Storage 3'
 published: true
 description: 30DaysforGoogleCloud - Introduction
-tags: 'GCP, Cloud, IaaS, PaaS, SaaS, GoogleCloud'
+tags: 'GCP, Cloud, IaaS, PaaS, SaaS, GoogleCloud, Storageon Cloud'
 cover_image: null
 canonical_url: null
 id: 
-date: '26-Oct-2022'
+date: '28-Oct-2022'
 ---
 
-## Introduction - Day 1
+## Cloud Storage - Day 3
+
+Cloud Storage allows world-wide storage and retrieval of any amount of data at any time. You can use Cloud Storage for a range of scenarios including serving website content, storing data for archival and disaster recovery, or distributing large data objects to users via direct download.
+
+Create a bucket
+In the Cloud Console, go to Navigation menu > Cloud Storage > Buckets. Click CREATE BUCKET.
+
+Name your bucket: Enter a unique name for your bucket.
+
+Bucket naming rules:
+
+Do not include sensitive information in the bucket name, because the bucket namespace is global and publicly visible.
+
+Bucket names must contain only lowercase letters, numbers, dashes (-), underscores (_), and dots (.). Names containing dots require verification.
+
+Bucket names must start and end with a number or letter.
+
+Bucket names must contain 3 to 63 characters. Names containing dots can contain up to 222 characters, but each dot-separated component can be no longer than 63 characters.
+
+Bucket names cannot be represented as an IP address in dotted-decimal notation (for example, 192.168.5.4).
+
+Bucket names cannot begin with the "goog" prefix.
+
+Bucket names cannot contain "google" or close misspellings of "google".
+
+Also, for DNS compliance and future compatibility, you should not use underscores (_) or have a period adjacent to another period or dash. For example, ".." or "-." or ".-" are not valid in DNS names.
+
+Click CONTINUE.
+
+Set Location type to Multi-region.
+
+Set Location to us (multiple regions in United States)
+
+Click CONTINUE.
+
+Set Default Storage class to Standard.
+
+Click CONTINUE.
+
+If needed, uncheck Enforce public access prevention on this bucket under Prevent public access.
+
+Select Fine-grained under Access Control.
+
+Click CONTINUE.
+
+Scroll to the bottom and click CREATE.
+
+That's it — you've just created a Cloud Storage bucket!
+
+
 
 
 
