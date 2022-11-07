@@ -27,7 +27,7 @@ Connect me on [LinkedIN](https://www.linkedin.com/in/pkstiyara/)
 ### What is Cloud and why we use?
 
 - [✔️] :green_circle:  2 > [Google Cloud Fundamentals](Days/day02.md)
-- [✔️] :green_circle:  3 > [](Days/day03.md)
+- [✔️] :green_circle:  3 > [](Days/day03.md)[Compute Serives in Google Cloud](Days/day03.md)
 - [✔️] :green_circle:  4 > [](Days/day04.md)
 - [✔️] :green_circle:  5 > [](Days/day05.md)
 - [✔️] :green_circle:  6 > [](Days/day06.md)
